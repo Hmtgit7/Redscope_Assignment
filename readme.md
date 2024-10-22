@@ -233,4 +233,3 @@ Add fields in `social_circles` to represent parent-created circles:
 ## Conclusion
 
 This solution covers the end-to-end design of the data model and API for efficiently managing social circles, posts, replies, and schema evolution to accommodate future enhancements like child grade changes and parent-initiated circles.
-C:\Users\lohar\readme.md
